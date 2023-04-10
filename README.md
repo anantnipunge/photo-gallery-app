@@ -1,4 +1,4 @@
-# React Photo Gallery
+# PicPlaza
 
 Source code for react/node photo gallery app
 
